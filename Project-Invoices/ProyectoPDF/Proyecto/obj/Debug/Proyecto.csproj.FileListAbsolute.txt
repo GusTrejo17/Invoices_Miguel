@@ -1,0 +1,43 @@
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\itextsharp.dll
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xml
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Gustavo\Downloads\031_ProyectoPdfSharp-main\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\obj\Debug\Proyecto.frmDashboard.resources
+C:\Users\Gustavo\Documents\Project-Invoices\ProyectoPDF\Proyecto\obj\Debug\Proyecto.frmClient.resources

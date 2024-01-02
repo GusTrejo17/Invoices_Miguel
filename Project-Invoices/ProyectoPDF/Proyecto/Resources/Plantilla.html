@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Lagos Sprinklers and Pumps</title>
+    <style>
+        table.border {
+            border-collapse: collapse;
+        }
+
+            table.border th {
+                padding: 5px;
+                border: 1px solid black;
+            }
+
+            table.border td {
+                padding: 5px;
+                border: 1px solid black;
+            }
+    </style>
+</head>
+
+<body style="text-align: center; margin: 0; padding: 0;">
+    <table style="width: 100%;">
+        <tr>
+            <td style="width: 20%;"></td>
+            <td style="width: 60%;" align="center" valign="top">
+                <table>
+                    <tr>
+                        <td align="center"> <h2>Lagos Sprinklers and Pumps</h2></td>
+                    </tr>
+                    <tr>
+                        <td align="center"></td>
+                    </tr>
+                    <tr>
+                        <td align="center"></td>
+                    </tr>
+                </table>
+            </td>
+            <td style="width: 20%;">
+                <table class="border" style="width: 100%;">
+                    <tr style="background-color: #aaffaa; color: black">
+                        <td style="border: 1px solid black; padding: 10px;">
+                            <strong>FOLIO</strong>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid black; padding: 10px; color: red; font-weight: bold;">
+                            Nº
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <table style="border-collapse: collapse; width: 100%; font-size: 15px;">
+        <tr>
+            <td style="padding: 10px; vertical-align: top; width: 33.33%;">
+                <h4>Commercial and residential free estimates</h4>
+                <table style="border-collapse: collapse;width: 100%;">
+                    <tr>
+                        <td style="border: 1px solid black; padding: 10px;padding: 0px;height: 295px;">@VARIABLE0</td>
+                    </tr>
+                </table>
+            </td>
+            <td style="padding: 10px; vertical-align: top; width: 33.33%;">
+                <table style="border-collapse: collapse;margin-top: 60px;width: 100%;">
+                    <tr>
+                        <td colspan="3" style="width:100%;border-bottom:1px solid black">
+                            <p><b>Sold by</b><br></br><br></br>@VARIABLE1</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="width:100%;border-bottom:1px solid black">
+                            <p><br></br><b>Cash</b><br></br><br></br>@VARIABLE2</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="width:100%;border-bottom:1px solid black">
+                            <p><br></br><b>C.D.D.</b><br></br><br></br>@VARIABLE3</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="width:100%;border-bottom:1px solid black">
+                            <p><br></br><b>Amount Charged</b><br></br><br></br>@VARIABLE4</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td style="padding: 10px; vertical-align: top; width: 33.33%; text-align: left;">
+                <h4>Date: @VARIABLE5</h4>
+                <br></br>
+                <table style="border-collapse: collapse;width: 100%;text-align: left;">
+                    <tr>
+                        <td style="border: 1px solid black; padding: 10px;height: 73px;">
+                            <p><b>Customer:</b> @VARIABLE6</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid black; padding: 10px;height: 73px;">
+                            <p><b>Name:</b> @VARIABLE7</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid black; padding: 10px;height: 73px;">
+                            <p><b>Address:</b> @VARIABLE8</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid black; padding: 10px;height: 73px;">
+                            <p><b>City State:</b> @VARIABLE9</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    <table class="border" style="width: 100%;">
+        <thead>
+            <tr style="background-color: #d8d8d8">
+                <th>Quantity.</th>
+                <th>Description</th>
+                <th>Unit-Price</th>
+                <th>Amount</th>
+            </tr>
+        </thead>
+        <tbody>
+            @FILAS
+            <tr>
+                <td style="border: 0px !important"></td>
+                <td style="border: 0px !important"></td>
+                <td align="right">Total:</td>
+                <td>@TOTAL</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
